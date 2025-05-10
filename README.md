@@ -195,7 +195,7 @@ Descrevendo as opções do comando:
    ```
 2. Acesse o diretório home do usuário
    ```bash
-   pwd
+   cd ~
    ```
 3. Liste os arquivos e pastas do diretório atual:  
    ```bash
